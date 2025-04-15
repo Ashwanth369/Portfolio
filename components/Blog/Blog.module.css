@@ -1,0 +1,45 @@
+.blog {
+  padding-top: 2rem;
+}
+
+.heading {
+  font-size: 2rem;
+  color: var(--text-color);
+  margin-bottom: 2rem;
+}
+
+.entry {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.2rem 0;
+  border-bottom: 1px solid rgba(200, 255, 0, 0.2);
+  text-decoration: none;
+  gap: 1rem;
+}
+
+.meta {
+  flex: 1 1 70%;
+}
+
+.meta h3 {
+  color: white;
+  font-size: 1.1rem;
+  margin-bottom: 0.4rem;
+}
+
+.info {
+  color: var(--description-text);
+  font-size: 0.85rem;
+}
+
+.thumbnail {
+  flex: 1 1 25%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.thumbnail img {
+  border-radius: 8px;
+  object-fit: cover;
+}

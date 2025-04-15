@@ -1,0 +1,285 @@
+{
+  "contact": {
+    "email": "ashwanthkumar99@gmail.com",
+    "github": "https://github.com/Ashwanth369",
+    "linkedin": "https://www.linkedin.com/in/gashwanth-kumar/"
+  },
+  "techStack": [
+    {
+      "name": "Java",
+      "link": "https://www.java.com/en/",
+      "icon": "https://www.svgrepo.com/show/452234/java.svg"
+    },
+    {
+      "name": "Python",
+      "link": "https://www.python.org/",
+      "icon": "https://www.svgrepo.com/show/452091/python.svg"
+    },
+    {
+      "name": "C",
+      "link": "https://en.wikipedia.org/wiki/C_(programming_language)",
+      "icon": "https://cdn.simpleicons.org/c"
+    },
+    {
+      "name": "C++",
+      "link": "https://isocpp.org/",
+      "icon": "https://cdn.simpleicons.org/cplusplus"
+    },
+    {
+      "name": "JavaScript",
+      "link": "https://www.javascript.com/",
+      "icon": "https://cdn.simpleicons.org/javascript"
+    },
+    {
+      "name": "TypeScript",
+      "link": "https://www.typescriptlang.org/",
+      "icon": "https://cdn.simpleicons.org/typescript"
+    },
+    {
+      "name": "SQL",
+      "link": "https://en.wikipedia.org/wiki/SQL",
+      "icon": "https://www.svgrepo.com/show/374093/sql.svg"
+    },
+    {
+      "name": "C#",
+      "link": "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)",
+      "icon": "https://www.svgrepo.com/show/452184/csharp.svg"
+    },
+    {
+      "name": "Go",
+      "link": "https://go.dev/",
+      "icon": "https://cdn.simpleicons.org/go"
+    },
+    {
+      "name": "Bash",
+      "link": "https://www.gnu.org/software/bash/",
+      "icon": "https://cdn.simpleicons.org/gnubash"
+    },
+    {
+      "name": "AWS",
+      "link": "https://aws.amazon.com/",
+      "icon": "https://www.svgrepo.com/show/448266/aws.svg"
+    },
+    {
+      "name": "GCP",
+      "link": "https://cloud.google.com/",
+      "icon": "https://cdn.simpleicons.org/googlecloud"
+    },
+    {
+      "name": "Docker",
+      "link": "https://www.docker.com/",
+      "icon": "https://cdn.simpleicons.org/docker"
+    },
+    {
+      "name": "Kubernetes",
+      "link": "https://kubernetes.io/",
+      "icon": "https://cdn.simpleicons.org/kubernetes"
+    },
+    {
+      "name": "CI/CD",
+      "link": "https://www.redhat.com/en/topics/devops/what-is-ci-cd",
+      "icon": "https://cdn.simpleicons.org/jenkins"
+    },
+    {
+      "name": "GitOps",
+      "link": "https://www.redhat.com/en/topics/devops/what-is-gitops",
+      "icon": "https://cdn.simpleicons.org/git"
+    },
+    {
+      "name": "REST APIs",
+      "link": "https://restfulapi.net/",
+      "icon": "https://www.svgrepo.com/show/530439/api-interface.svg"
+    },
+    {
+      "name": "GraphQL",
+      "link": "https://graphql.org/",
+      "icon": "https://cdn.simpleicons.org/graphql"
+    },
+    {
+      "name": "Java Spring Boot",
+      "link": "https://spring.io/projects/spring-boot",
+      "icon": "https://cdn.simpleicons.org/spring"
+    },
+    {
+      "name": "Flask",
+      "link": "https://flask.palletsprojects.com/",
+      "icon": "https://cdn.simpleicons.org/flask"
+    },
+    {
+      "name": "FastAPI",
+      "link": "https://fastapi.tiangolo.com/",
+      "icon": "https://cdn.simpleicons.org/fastapi"
+    },
+    {
+      "name": "React",
+      "link": "https://reactjs.org/",
+      "icon": "https://cdn.simpleicons.org/react"
+    },
+    {
+      "name": "Node.js",
+      "link": "https://nodejs.org/",
+      "icon": "https://cdn.simpleicons.org/nodedotjs"
+    },
+    {
+      "name": "Apache Airflow",
+      "link": "https://airflow.apache.org/",
+      "icon": "https://cdn.simpleicons.org/apacheairflow"
+    },
+    {
+      "name": "Apache Kafka",
+      "link": "https://kafka.apache.org/",
+      "icon": "https://cdn.simpleicons.org/apachekafka"
+    },
+    {
+      "name": "PySpark",
+      "link": "https://spark.apache.org/docs/latest/api/python/",
+      "icon": "https://cdn.simpleicons.org/apachespark"
+    },
+    {
+      "name": "Snowflake",
+      "link": "https://www.snowflake.com/",
+      "icon": "https://cdn.simpleicons.org/snowflake"
+    },
+    {
+      "name": "Pytorch",
+      "link": "https://pytorch.org/",
+      "icon": "https://cdn.simpleicons.org/pytorch"
+    },
+    {
+      "name": "TensorFlow",
+      "link": "https://www.tensorflow.org/",
+      "icon": "https://cdn.simpleicons.org/tensorflow"
+    },
+    {
+      "name": "Transformers",
+      "link": "https://huggingface.co/transformers/",
+      "icon": "https://cdn.simpleicons.org/huggingface"
+    },
+    {
+      "name": "LangChain",
+      "link": "https://langchain.com/",
+      "icon": "https://cdn.simpleicons.org/langchain"
+    },
+    {
+      "name": "Ollama",
+      "link": "https://ollama.com/",
+      "icon": "https://cdn.simpleicons.org/ollama"
+    },
+    {
+      "name": "Unsloth",
+      "link": "https://github.com/unslothai/unsloth",
+      "icon": "https://www.svgrepo.com/show/375527/ai-platform.svg"
+    },
+    {
+      "name": "ONNX",
+      "link": "https://onnx.ai/",
+      "icon": "https://cdn.simpleicons.org/onnx"
+    },
+    {
+      "name": "Gurobi",
+      "link": "https://www.gurobi.com/",
+      "icon": "https://cdn.simpleicons.org/gurobi"
+    }
+  ],
+  "education": [
+    {
+      "degree": "MS in Computer Science",
+      "institution": "Purdue University",
+      "period": "Jan 2023 – Dec 2024",
+      "description": "Data Mining, Statistical Machine Learning, Algorithms - Design Analysis & Implementation, Information Security, Data Communication & Comp Networking, Cryptography, Compiler & Programming Systems, Parallel Computing"
+    },
+    {
+      "degree": "B.Tech in Computer Science",
+      "institution": "Indian Institute of Technology Hyderabad",
+      "period": "Aug 2017 –  Jun 2021",
+      "description": "Data Structures, Computer Architecture, Database Management Systems, Operating Systems, Principles of Programming Languages, Software Engineering, Theory of Computation, Probability, Combinatorics and Graph Theory, Kernel Methods, Information Retrieval, Fraud Analytics, Deep Learning for Vision, Reinforcement Learning"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Software Developer",
+      "company": "Purdue University",
+      "period": "Aug 2023 – Aug 2024",
+      "description": "At Purdue, I led the development of an interactive website for the School of Languages and Cultures, focusing on clean design, accessibility, and performance. By implementing lazy loading and refactoring legacy code across HTML, CSS, and JavaScript, I improved page load times by over 35% and boosted user engagement. I also built XML-based content management tools that simplified site updates and reduced bounce rates. The entire solution was deployed with a continuous delivery setup, ensuring smooth updates and long-term maintainability."
+    },
+    {
+      "title": "Software Engineering Specialist",
+      "company": "GE Digital",
+      "period": "Jul 2021 - Dec 2022",
+      "description": "At GE Digital, I was part of the APM Predix Analytics team, where I worked on building and scaling real-time analytics capabilities for industrial assets. I improved the framework’s performance by introducing Java concurrency patterns and designing microservices that processed analytics workloads efficiently. On the cloud side, I developed and deployed Python-based analytics using AWS Lambda, Step Functions, and S3, significantly reducing latency across the platform. I also led the Monocerous Project, where I built an optimization engine using Gurobi to minimize operational costs, and trained LSTM models in PyTorch to forecast energy demand with high accuracy. To support these models, I built automated testing pipelines and dashboards with PyTest and Streamlit, making the results actionable in real-time."
+    },
+    {
+      "title": "Software Engineer Intern",
+      "company": "GE Digital",
+      "period": "May 2020 - Jul 2020",
+      "description": "During my internship, I focused on enhancing internal security for Git workflows. I built a custom Bash-based encryption tool that used asymmetric keys to secure sensitive codebases, reducing the risk of unauthorized access. The project involved designing secure file sync workflows, enforcing access control, and automating security checks, all of which significantly improved audit readiness and reduced execution time during compliance runs."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Real-Time Collaborative IDE",
+      "description": "Built a collaborative coding platform using Next.js and WebSockets to enable real-time code editing, live preview, and version control. Integrated CRDT for conflict-free data synchronization, allowing multiple users to edit code simultaneously without conflicts.",
+      "tech": ["Next.js", "TypeScript", "WebSockets", "CRDT"],
+      "image": "/projects/realtime-ide.png",
+      "github": "https://github.com/your-username/realtime-ide"
+    },
+    {
+      "title": "Voice-ChatGPT App",
+      "description": "Created a mobile app for real-time voice conversations with ChatGPT. Used TTS/STT and OpenAI API, deployed with a responsive AWS backend.",
+      "tech": ["Next.js", "TypeScript", "CSS Modules", "Framer Motion"],
+      "image": "/projects/portfolio.png",
+      "github": ""
+    },
+    {
+      "title": "Portfolio Website",
+      "description": "Crafted and deployed a fast, SEO-optimized personal portfolio using modern web practices on Vercel.",
+      "tech": ["Next.js", "TypeScript", "CSS Modules", "Framer Motion"],
+      "image": "/projects/portfolio.png",
+      "github": ""
+    },
+    {
+      "title": "Caterpillar Collaboration (The Data Mine)",
+      "description": "Built a pipeline to automate machine sensor data processing and visualization. Integrated an LLM chatbot for predictive analytics and smarter fleet monitoring.",
+      "tech": ["Huggingface", "Ollama", "Gradio", "LLM"],
+      "image": "/projects/portfolio.png",
+      "github": ""
+    },
+    {
+      "title": "LoRA and QLoRA for Language Translation",
+      "description": "Fine-tuned the Gemma 2 model for English-to-Hindi translation using LoRA techniques. Optimized for low-resource environments with efficient memory and compute usage.",
+      "tech": ["Huggingface", "Unsloth", "Fine Tuning", "Language Translation"],
+      "image": "/projects/portfolio.png",
+      "github": ""
+    },
+    {
+      "title": "Huggingface Transformers Contribution",
+      "description": "Contributed the Adam Mini optimizer to Huggingface Transformers. Reduced memory load and boosted performance across diverse hardware.",
+      "tech": ["Next.js", "TypeScript", "CSS Modules", "Framer Motion"],
+      "image": "/projects/portfolio.png",
+      "github": ""
+    },
+    {
+      "title": "Image Super-Resolution",
+      "description": "Implemented and compared multiple GANs for enhancing image quality. Designed for real-time edge processing with high-resolution output.",
+      "tech": ["Next.js", "TypeScript", "CSS Modules", "Framer Motion"],
+      "image": "/projects/portfolio.png",
+      "github": ""
+    },
+    {
+      "title": "Stock Price Prediction",
+      "description": "Analyzed financial sentiment and stock data for trend forecasting. Used NLP and time series models to deliver data-driven insights.",
+      "tech": ["Next.js", "TypeScript", "CSS Modules", "Framer Motion"],
+      "image": "/projects/portfolio.png",
+      "github": ""
+    }
+  ],
+  "blogs": [
+    {
+      "title": "How I Built a Real-Time IDE",
+      "url": "https://yourname.substack.com/p/how-i-built-a-realtime-ide",
+      "date": "March 12, 2024",
+      "author": "Your Name",
+      "image": "/blogs/realtime-ide.jpg"
+    }
+  ]
+}

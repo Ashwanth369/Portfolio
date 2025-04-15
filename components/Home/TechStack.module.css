@@ -1,0 +1,53 @@
+.tech {
+  margin-top: 4rem;
+}
+
+.heading {
+  font-size: 1.6rem;
+  color: var(--text-color);
+  margin-bottom: 1.5rem;
+}
+
+.stack {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  list-style: none;
+  padding: 0;
+}
+
+.item {
+  background-color: var(--secondary-color);
+  color: var(--text-color);
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  transition: transform 0.3s ease, background-color 0.3s ease, color 0.3s ease;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+.item:hover {
+  background-color: var(--accent-color);
+  color: var(--bg-color);
+  transform: translateY(-4px);
+}
+
+.techLink {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: inherit;
+}
+
+.icon {
+  width: 1rem;
+  height: 1rem;
+  transition: transform 0.3s ease;
+  margin-right: 0.5rem;
+}
+
+.icon:hover {
+  transform: scale(1.1);
+}

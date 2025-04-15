@@ -1,0 +1,38 @@
+.education {
+  padding-top: -2rem;
+}
+
+.heading {
+  font-size: 3rem;
+  color: var(--accent-color);
+  margin-bottom: 3rem;
+  text-align: center;
+}
+
+.entry {
+  margin-bottom: 4rem;
+}
+
+.entry h2 {
+  font-size: 1.8rem;
+  color: var(--text-color);
+  margin-top: 3rem;
+  margin-bottom: -1.2rem;
+}
+
+.entry h3 {
+  color: rgba(var(--text-color-raw), 0.6);
+  font-weight: normal;
+  margin-bottom: -1.2rem;
+}
+
+.entry h4 {
+  color: rgba(var(--text-color-raw), 0.6);
+  font-weight: normal;
+  margin-bottom: -0.2rem;
+}
+
+.entry p {
+  font-size: 0.95rem;
+  color: var(--description-text);
+}
