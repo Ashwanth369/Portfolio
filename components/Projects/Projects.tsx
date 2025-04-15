@@ -19,8 +19,8 @@ const Projects = () => {
             <Image
               src={project.image}
               alt={`${project.title} Preview`}
-              width={800}
-              height={450}
+              width={1200}
+              height={600}
               className={styles.image}
             />
             <div className={styles.row}>

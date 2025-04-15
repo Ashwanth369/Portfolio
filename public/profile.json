@@ -2,7 +2,8 @@
   "contact": {
     "email": "ashwanthkumar99@gmail.com",
     "github": "https://github.com/Ashwanth369",
-    "linkedin": "https://www.linkedin.com/in/gashwanth-kumar/"
+    "linkedin": "https://www.linkedin.com/in/gashwanth-kumar/",
+    "resume": "Resume.pdf"
   },
   "techStack": [
     {
@@ -222,69 +223,153 @@
   ],
   "projects": [
     {
-      "title": "Real-Time Collaborative IDE",
+      "title": "Realtime Collaboration IDE",
       "description": "Built a collaborative coding platform using Next.js and WebSockets to enable real-time code editing, live preview, and version control. Integrated CRDT for conflict-free data synchronization, allowing multiple users to edit code simultaneously without conflicts.",
       "tech": ["Next.js", "TypeScript", "WebSockets", "CRDT"],
-      "image": "/projects/realtime-ide.png",
-      "github": "https://github.com/your-username/realtime-ide"
+      "image": "/images/projects/realtime-ide.png",
+      "github": "https://github.com/Ashwanth369/Realtime-Collaboration-IDE"
     },
     {
       "title": "Voice-ChatGPT App",
       "description": "Created a mobile app for real-time voice conversations with ChatGPT. Used TTS/STT and OpenAI API, deployed with a responsive AWS backend.",
-      "tech": ["Next.js", "TypeScript", "CSS Modules", "Framer Motion"],
-      "image": "/projects/portfolio.png",
-      "github": ""
+      "tech": ["Python", "OpenAI", "Text-To-Speech", "Speech-To-Text"],
+      "image": "/images/projects/VoiceChatGPT.png",
+      "github": "https://github.com/Ashwanth369/Voice-ChatGPT"
     },
     {
       "title": "Portfolio Website",
       "description": "Crafted and deployed a fast, SEO-optimized personal portfolio using modern web practices on Vercel.",
-      "tech": ["Next.js", "TypeScript", "CSS Modules", "Framer Motion"],
-      "image": "/projects/portfolio.png",
-      "github": ""
+      "tech": ["Next.js", "TypeScript", "Vercel", "CSS Modules"],
+      "image": "/images/projects/portfolio.png",
+      "github": "https://github.com/Ashwanth369/Portfolio"
     },
     {
       "title": "Caterpillar Collaboration (The Data Mine)",
       "description": "Built a pipeline to automate machine sensor data processing and visualization. Integrated an LLM chatbot for predictive analytics and smarter fleet monitoring.",
       "tech": ["Huggingface", "Ollama", "Gradio", "LLM"],
-      "image": "/projects/portfolio.png",
+      "image": "/images/projects/Caterpillar.png",
       "github": ""
     },
     {
       "title": "LoRA and QLoRA for Language Translation",
       "description": "Fine-tuned the Gemma 2 model for English-to-Hindi translation using LoRA techniques. Optimized for low-resource environments with efficient memory and compute usage.",
       "tech": ["Huggingface", "Unsloth", "Fine Tuning", "Language Translation"],
-      "image": "/projects/portfolio.png",
+      "image": "/images/projects/portfolio.png",
       "github": ""
     },
     {
       "title": "Huggingface Transformers Contribution",
       "description": "Contributed the Adam Mini optimizer to Huggingface Transformers. Reduced memory load and boosted performance across diverse hardware.",
-      "tech": ["Next.js", "TypeScript", "CSS Modules", "Framer Motion"],
-      "image": "/projects/portfolio.png",
-      "github": ""
+      "tech": ["Open Source", "Pytorch", "Transformers", "Optimization"],
+      "image": "/images/projects/portfolio.png",
+      "github": "https://github.com/huggingface/transformers/pull/31933"
     },
     {
       "title": "Image Super-Resolution",
       "description": "Implemented and compared multiple GANs for enhancing image quality. Designed for real-time edge processing with high-resolution output.",
-      "tech": ["Next.js", "TypeScript", "CSS Modules", "Framer Motion"],
-      "image": "/projects/portfolio.png",
-      "github": ""
+      "tech": ["Python", "Pytorch", "GANs", "Model Training"],
+      "image": "/images/projects/portfolio.png",
+      "github": "https://github.com/Ashwanth369/Image-Super-Resolution"
     },
     {
       "title": "Stock Price Prediction",
       "description": "Analyzed financial sentiment and stock data for trend forecasting. Used NLP and time series models to deliver data-driven insights.",
-      "tech": ["Next.js", "TypeScript", "CSS Modules", "Framer Motion"],
-      "image": "/projects/portfolio.png",
-      "github": ""
+      "tech": ["Sentiment Analysis", "Tensorflow", "ML", "Data Mining"],
+      "image": "/images/projects/StockPricePrediction.jpeg",
+      "github": "https://github.com/Ashwanth369/Stock-Price-Prediction"
     }
   ],
   "blogs": [
     {
-      "title": "How I Built a Real-Time IDE",
-      "url": "https://yourname.substack.com/p/how-i-built-a-realtime-ide",
-      "date": "March 12, 2024",
-      "author": "Your Name",
-      "image": "/blogs/realtime-ide.jpg"
+      "title": "AI Unplugged 22: RoPE internals explained, Stuffed Mamba, Planning with Transfomer: Chess.",
+      "url": "https://datta0.substack.com/p/ai-unplugged-22-rope-internals-explained",
+      "date": "Nov 07, 2024",
+      "author": "Ashwanth, Datta",
+      "image": "/images/blogs/aiunplugged22.jpg"
+    },
+    {
+      "title": "AI Unplugged 21: TPI LLM, Differential Transformer, ARIA, Ministral 3B and 8B.",
+      "url": "https://datta0.substack.com/p/ai-unplugged-21-tpi-llm-differential",
+      "date": "Oct 17, 2024",
+      "author": "Ashwanth, Datta, Amit",
+      "image": "/images/blogs/aiunplugged21.jpg"
+    },
+    {
+      "title": "AI Unplugged 20: SCoRE Self Correction via RL, OpenAI o1 models, Qwen 2.5 coder, Spectrum Fine Tuning.",
+      "url": "https://datta0.substack.com/p/ai-unplugged-20-score-self-correction",
+      "date": "Sep 26, 2024",
+      "author": "Ashwanth, Datta, Amit",
+      "image": "/images/blogs/aiunplugged20.jpg"
+    },
+    {
+      "title": "AI Unplugged 19: KTO for model alignment, OLMoE, Mamba in the LlaMa, Plan Search.",
+      "url": "https://datta0.substack.com/p/ai-unplugged-19-kto-for-model-alignment",
+      "date": "Sep 12, 2024",
+      "author": "Ashwanth, Datta, Amit",
+      "image": "/images/blogs/aiunplugged19.jpg"
+    },
+    {
+      "title": "AI Unplugged 18: MiniTron and Llama-MiniTron, 1.5 Pints, Jamba 1.5 and FocusLLM.",
+      "url": "https://datta0.substack.com/p/ai-unplugged-18-minitron-and-llama",
+      "date": "Aug 29, 2024",
+      "author": "Ashwanth, Datta, Gavrish",
+      "image": "/images/blogs/aiunplugged18.jpg"
+    },
+    {
+      "title": "AI Unplugged 17: The AI Scientist, Apple Foundation Models, MiniCPM-V and more.",
+      "url": "https://datta0.substack.com/p/ai-unplugged-17-the-ai-scientist",
+      "date": "Aug 15, 2024",
+      "author": "Ashwanth, Datta",
+      "image": "/images/blogs/aiunplugged17.jpg"
+    },
+    {
+      "title": "AI Unplugged 16: Llama 3, AIMO winners, Segment Anything Model 2, LazyLLM.",
+      "url": "https://datta0.substack.com/p/ai-unplugged-16-llama-3-aimo-winners",
+      "date": "Aug 01, 2024",
+      "author": "Ashwanth, Datta",
+      "image": "/images/blogs/aiunplugged16.jpg"
+    },
+    {
+      "title": "AIUnplugged 15: Gemma 2, Flash Attention 3, QGaLoRE, MathΣtral and Codestral Mamba.",
+      "url": "https://datta0.substack.com/p/aiunplugged-15-gemma-2-flash-attention",
+      "date": "Jul 17, 2024",
+      "author": "Ashwanth, Datta",
+      "image": "/images/blogs/aiunplugged15.jpg"
+    },
+    {
+      "title": "AI Unplugged 14: Adam mini, GrokFast, MobileLLM, JEST.",
+      "url": "https://datta0.substack.com/p/ai-unplugged-14-adam-mini-grokfast",
+      "date": "Jul 01, 2024",
+      "author": "Ashwanth, Datta, Gavrish",
+      "image": "/images/blogs/aiunplugged14.jpg"
+    },
+    {
+      "title": "AI Unplugged 13: Qwen2, DiscoPOP, Mixture of Agents, YOLO v10, Grokked Transformers.",
+      "url": "https://datta0.substack.com/p/ai-unplugged-13-qwen2-discopop-mixture",
+      "date": "Jun 20, 2024",
+      "author": "Ashwanth, Datta, Gavrish",
+      "image": "/images/blogs/aiunplugged13.jpg"
+    },
+    {
+      "title": "AI Unplugged 12: MoRA. DPO vs PPO. CoPE Contextual Position Encoding. S3D Self Speculative Decoding.",
+      "url": "https://datta0.substack.com/p/ai-unplugged-12-mora-dpo-vs-ppo-cope",
+      "date": "Jun 06, 2024",
+      "author": "Ashwanth, Datta, Gavrish",
+      "image": "/images/blogs/aiunplugged12.jpg"
+    },
+    {
+      "title": "AI Unplugged 11: LoRA vs FFT, Multi Token Prediction, LinkedIn's AI assistant",
+      "url": "https://datta0.substack.com/p/ai-unplugged-11-lora-vs-fft-multi",
+      "date": "May 23, 2024",
+      "author": "Ashwanth, Datta, Gavrish",
+      "image": "/images/blogs/aiunplugged11.jpg"
+    },
+    {
+      "title": "AI Unplugged 10: KAN, xLSTM, OpenAI GPT4o and Google I/O updates, Alpha Fold 3, Fishing for MagiKarp.",
+      "url": "https://datta0.substack.com/p/ai-unplugged-10-kan-xlstm-openai",
+      "date": "May 16, 2024",
+      "author": "Ashwanth, Datta, Gavrish",
+      "image": "/images/blogs/aiunplugged10.jpg"
     }
   ]
 }

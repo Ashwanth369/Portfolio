@@ -24,7 +24,7 @@ const About = () => {
           </p>
         </div>
         <Image
-          src="/me.jpg"
+          src="/images/dp.jpg"
           alt="My Picture"
           layout="fill"
           objectFit="cover"
