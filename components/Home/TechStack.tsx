@@ -1,5 +1,6 @@
 import styles from "./TechStack.module.css";
 import profile from "@/public/profile.json";
+import Image from "next/image";
 
 const stack = profile.techStack;
 
@@ -16,7 +17,7 @@ const TechStack = () => {
               rel="noopener noreferrer"
               className={styles.techLink}
             >
-              <img src={tech.icon} alt={tech.name} className={styles.icon} />
+              <Image src={tech.icon} alt={tech.name} className={styles.icon} />
               {tech.name}
             </a>
           </li>

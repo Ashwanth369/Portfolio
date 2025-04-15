@@ -41,7 +41,7 @@ const Contact = () => {
         setStatus("error");
         setTimeout(() => setStatus("idle"), 5000);
       }
-    } catch (err) {
+    } catch {
       setStatus("error");
       setTimeout(() => setStatus("idle"), 5000);
     }

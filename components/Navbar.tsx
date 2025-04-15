@@ -1,6 +1,7 @@
 import { useRouter } from "next/router";
 import Container from "./Container";
 import styles from "./Navbar.module.css";
+import Link from "next/link";
 
 const Navbar = () => {
   const router = useRouter();
@@ -21,24 +22,24 @@ const Navbar = () => {
               </a>
             </li>
             <li>
-              <a href="/Education" className={isActive("/Education")}>
+              <Link href="/Education" className={isActive("/Education")}>
                 Education
-              </a>
+              </Link>
             </li>
             <li>
-              <a href="/Experience" className={isActive("/Experience")}>
+              <Link href="/Experience" className={isActive("/Experience")}>
                 Experience
-              </a>
+              </Link>
             </li>
             <li>
-              <a href="/Projects" className={isActive("/Projects")}>
+              <Link href="/Projects" className={isActive("/Projects")}>
                 Projects
-              </a>
+              </Link>
             </li>
             <li>
-              <a href="/Blog" className={isActive("/Blog")}>
+              <Link href="/Blog" className={isActive("/Blog")}>
                 Blog
-              </a>
+              </Link>
             </li>
           </ul>
         </div>
