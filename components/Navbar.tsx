@@ -17,9 +17,9 @@ const Navbar = () => {
           <div className={styles.logo}>AKG.</div>
           <ul className={styles.navLinks}>
             <li>
-              <a href="/" className={isActive("/")}>
+              <Link href="/" className={isActive("/")}>
                 Home
-              </a>
+              </Link>
             </li>
             <li>
               <Link href="/Education" className={isActive("/Education")}>
