@@ -17,7 +17,13 @@ const TechStack = () => {
               rel="noopener noreferrer"
               className={styles.techLink}
             >
-              <Image src={tech.icon} alt={tech.name} className={styles.icon} />
+              <Image
+                src={tech.icon}
+                alt={tech.name}
+                className={styles.icon}
+                width={16}
+                height={16}
+              />
               {tech.name}
             </a>
           </li>
