@@ -226,7 +226,7 @@
       "title": "Realtime Collaboration IDE",
       "description": "Built a collaborative coding platform using Next.js and WebSockets to enable real-time code editing, live preview, and version control. Integrated CRDT for conflict-free data synchronization, allowing multiple users to edit code simultaneously without conflicts.",
       "tech": ["Next.js", "TypeScript", "WebSockets", "CRDT"],
-      "image": "/images/projects/realtime-ide.png",
+      "image": "/images/projects/CollabIDE.png",
       "github": "https://github.com/Ashwanth369/Realtime-Collaboration-IDE"
     },
     {
@@ -258,17 +258,17 @@
       "github": ""
     },
     {
-      "title": "Huggingface Transformers Contribution",
+      "title": "Huggingface Transformers",
       "description": "Contributed the Adam Mini optimizer to Huggingface Transformers. Reduced memory load and boosted performance across diverse hardware.",
       "tech": ["Open Source", "Pytorch", "Transformers", "Optimization"],
-      "image": "/images/projects/portfolio.png",
+      "image": "/images/projects/HfOptimizer.png",
       "github": "https://github.com/huggingface/transformers/pull/31933"
     },
     {
       "title": "Image Super-Resolution",
       "description": "Implemented and compared multiple GANs for enhancing image quality. Designed for real-time edge processing with high-resolution output.",
       "tech": ["Python", "Pytorch", "GANs", "Model Training"],
-      "image": "/images/projects/portfolio.png",
+      "image": "/images/projects/ImageSuperResolution.png",
       "github": "https://github.com/Ashwanth369/Image-Super-Resolution"
     },
     {
