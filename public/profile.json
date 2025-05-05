@@ -224,57 +224,57 @@
   "projects": [
     {
       "title": "Realtime Collaboration IDE",
-      "description": "Built a collaborative coding platform using Next.js and WebSockets to enable real-time code editing, live preview, and version control. Integrated CRDT for conflict-free data synchronization, allowing multiple users to edit code simultaneously without conflicts.",
-      "tech": ["Next.js", "TypeScript", "WebSockets", "CRDT"],
+      "description": "Built a collaborative coding platform using Next.js and WebSockets to enable real-time code editing, live preview, and version control.",
+      "tech": ["Next.js", "TypeScript", "WebSockets"],
       "image": "/images/projects/CollabIDE.png",
       "github": "https://github.com/Ashwanth369/Realtime-Collaboration-IDE"
     },
     {
       "title": "Voice-ChatGPT App",
       "description": "Created a mobile app for real-time voice conversations with ChatGPT. Used TTS/STT and OpenAI API, deployed with a responsive AWS backend.",
-      "tech": ["Python", "OpenAI", "Text-To-Speech", "Speech-To-Text"],
+      "tech": ["OpenAI", "Text-To-Speech", "Speech-To-Text"],
       "image": "/images/projects/VoiceChatGPT.png",
       "github": "https://github.com/Ashwanth369/Voice-ChatGPT"
     },
     {
       "title": "Portfolio Website",
       "description": "Crafted and deployed a fast, SEO-optimized personal portfolio using modern web practices on Vercel.",
-      "tech": ["Next.js", "TypeScript", "Vercel", "CSS Modules"],
-      "image": "/images/projects/portfolio.png",
+      "tech": ["Next.js", "Vercel", "CSS Modules"],
+      "image": "/images/projects/Portfolio.png",
       "github": "https://github.com/Ashwanth369/Portfolio"
     },
     {
-      "title": "Caterpillar Collaboration (The Data Mine)",
+      "title": "The Data Mine (Caterpillar)",
       "description": "Built a pipeline to automate machine sensor data processing and visualization. Integrated an LLM chatbot for predictive analytics and smarter fleet monitoring.",
-      "tech": ["Huggingface", "Ollama", "Gradio", "LLM"],
+      "tech": ["Huggingface", "Ollama", "Gradio"],
       "image": "/images/projects/Caterpillar.png",
       "github": ""
     },
     {
       "title": "LoRA and QLoRA for Language Translation",
       "description": "Fine-tuned the Gemma 2 model for English-to-Hindi translation using LoRA techniques. Optimized for low-resource environments with efficient memory and compute usage.",
-      "tech": ["Huggingface", "Unsloth", "Fine Tuning", "Language Translation"],
-      "image": "/images/projects/portfolio.png",
+      "tech": ["Huggingface", "Unsloth", "Fine Tuning"],
+      "image": "/images/projects/LanguageTranslation.png",
       "github": ""
     },
     {
       "title": "Huggingface Transformers",
       "description": "Contributed the Adam Mini optimizer to Huggingface Transformers. Reduced memory load and boosted performance across diverse hardware.",
-      "tech": ["Open Source", "Pytorch", "Transformers", "Optimization"],
+      "tech": ["Pytorch", "Transformers", "Optimization"],
       "image": "/images/projects/HfOptimizer.png",
       "github": "https://github.com/huggingface/transformers/pull/31933"
     },
     {
       "title": "Image Super-Resolution",
       "description": "Implemented and compared multiple GANs for enhancing image quality. Designed for real-time edge processing with high-resolution output.",
-      "tech": ["Python", "Pytorch", "GANs", "Model Training"],
+      "tech": ["Pytorch", "GANs", "Model Training"],
       "image": "/images/projects/ImageSuperResolution.png",
       "github": "https://github.com/Ashwanth369/Image-Super-Resolution"
     },
     {
       "title": "Stock Price Prediction",
       "description": "Analyzed financial sentiment and stock data for trend forecasting. Used NLP and time series models to deliver data-driven insights.",
-      "tech": ["Sentiment Analysis", "Tensorflow", "ML", "Data Mining"],
+      "tech": ["Sentiment Analysis", "ML", "Data Mining"],
       "image": "/images/projects/StockPricePrediction.jpeg",
       "github": "https://github.com/Ashwanth369/Stock-Price-Prediction"
     }
